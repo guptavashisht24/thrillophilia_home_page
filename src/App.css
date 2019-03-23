@@ -170,6 +170,9 @@ background-color: #e6e6e6
 .orange{
   color:coral;
 }
+.oranges{
+  background-color:coral;
+}
 .pdt40{
   padding-top: 40px;
 }
@@ -235,6 +238,9 @@ background-color: #e6e6e6
 }
 .poa{
   position: absolute
+}
+.por{
+  position: relative;
 }
 .t300{
   top:300px;
@@ -315,4 +321,29 @@ background-color: #e6e6e6
 }
 .mb20{
   margin-bottom: 20px;
+}
+.pl800{
+  padding-left: 800px;
+}
+.pt150{
+  padding-top: 150px;
+}
+.whitebg{
+  
+  top: 150px;
+  left: 950px;
+  width: 10%;
+}
+whites{
+opacity: 0.5;
+background-color: white;
+}
+.ht50{
+  height: 50px;
+}
+.tc{
+  text-align: center;
+}
+.vam{
+  vertical-align: middle;
 }
